@@ -1,6 +1,6 @@
 <h1 align="left">Innodev 2024</h1>
 <h2 align="center">File Transfer Web Application</h2>
-<h3 align="center">##Team Name: Code Warrior</h3>
+<h3 align="center">Team Name: Code Warrior</h3>
 
 Team Members Name:<br>
 Ajeet Kumar <a href="https://github.com/23ajeet" target="blank">Github</a><br>
