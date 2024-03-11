@@ -16,13 +16,11 @@ Krishnendu <a href="https://github.com/Krishnendu22" target="blank">Github</a><b
 -Enable users to share files directly with others by sending them via email through the platform.<br><br>
 
 Tech Stacks:<br><br>
-
 Frontend:<br>
 HTML/CSS/JavaScript<br>
 Bootstrap/React.js<br>
 Dropzone.js (optional): For drag-and-drop file uploads.<br>
 AJAX or Fetch API: For making asynchronous requests to the backend.<br><br>
-
 Backend:<br>
 Node.js: A JavaScript runtime for the server.<br>
 Express.js: A web application framework for Node.js to handle routing and requests.<br>
