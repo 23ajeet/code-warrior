@@ -7,7 +7,7 @@ Ajeet Kumar <a href="https://github.com/23ajeet" target="blank">Github</a><br>
 Gagan Kumar <a href="https://github.com/gagan-kumar1693" target="blank">Github</a><br>
 Krishnendu <a href="https://github.com/Krishnendu22" target="blank">Github</a><br><br>
 
-**Proposed Features:**<br>
+**Proposed Features**<br>
 -Allow users to create accounts or log in securely<br>
 -Enable users to upload files either by dragging and dropping them onto the platform or by browsing their local file system.<br>
 -Provide the ability for users to download files they have uploaded or files shared with them.<br>
